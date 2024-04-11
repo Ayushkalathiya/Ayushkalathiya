@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ayush Kalathiya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -15,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ayushkalathiya9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushkalathiya9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-kalathiya-750497254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kalathiya-750497254" height="30" width="40" /></a>
-<a href="https://medium.com/@ayushkalathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushkalathiya" height="30" width="40" /></a>
+<a href="https://medium.com/@ayushkalathiya50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushkalathiya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayush50_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush50_" height="30" width="40" /></a>
 <a href="https://discord.gg/ak945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ak945" height="30" width="40" /></a>
 </p>
