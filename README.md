@@ -5,7 +5,7 @@
 <br> <br> 
 🎓 B.Tech Computer Engineering student at CHARUSAT (CGPA: 9.34/10) </br> </br>
 🧠 Currently deepening my expertise in NextJS, .Net , cloud  and Data Structures & Algorithms </br></br>
-🚀 Working on  <a href="https://trackwithspendwise.vercel.app" > SpendWise </a> Expense Tracker (Full stack Developer) 
+
 
 
 
