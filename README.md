@@ -17,8 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushKalathiya&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKalathiya&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyushKalathiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ak945) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kalathiya-750497254) </br> My mail Id : ayushkalathiya50@gmail.com
